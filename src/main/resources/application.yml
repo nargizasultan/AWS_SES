@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: location
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: xxxxxxxxxxxxxxxxxxx
+      secret-key: xxxxxxxxxxxxxxxxxxxx
+
+
